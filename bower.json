@@ -1,0 +1,11 @@
+{
+  "name": "libxdr",
+  "version": "0.0.6",
+  "homepage": "https://github.com/eligrey/pmxdr",
+  "authors": [
+    "Eli Grey <me@eligrey.com>"
+  ],
+  "description": "A library that implements a cross-browser (postMessage-supporting browsers only) cross-domain request constructor, XDR, using pmxdr.",
+  "main": "./libxdr.js",
+  "license": "MIT"
+}
